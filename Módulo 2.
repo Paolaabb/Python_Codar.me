@@ -1,0 +1,33 @@
+Execício 1.
+
+string="paola"
+int=10
+float=10.5
+bool= 10==10
+
+print(type("paola"))
+print(type(10))
+print(type(10.5))
+print(type(10==10))
+
+Exercício 2
+
+Valor_compras = 100.50
+Desconto = 10.50
+Quantidade_Itens = 5
+Valor_Final = 100.50 - 10.50
+Custo_médio = (100.50-10.50)*5
+
+print (100.50-10.50)
+print ((100.50-10.50)*5)
+
+OU
+
+Valor_compras = 100.50
+Desconto = 10.50
+Quantidade_Itens = 5
+Valor_Final = Valor_compras-Desconto
+Custo_médio = Valor_Final*5
+
+print (Valor_Final)
+print (Custo_médio)
